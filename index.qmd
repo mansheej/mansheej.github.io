@@ -1,0 +1,35 @@
+---
+title: "Mansheej Paul"
+image: profile.jpg
+about:
+    template: trestles
+    image-width: 12em
+    image-shape: round
+    links:
+        - icon: envelope
+          text: Email
+          href: mailto:mansheej@stanford.edu
+        - icon: twitter
+          text: Twitter
+          href: https://twitter.com/mansiege
+        - icon: github
+          text: GitHub
+          href: https://github.com/mansheej
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          href: https://scholar.google.co.uk/citations?hl=en&user=gmZt3VgAAAAJ&view_op=list_works&sortby=pubdate
+        
+---
+
+_Hi!_ I'm a Ph.D. student at Stanford University investigating the principles and mechanisms that underlie
+learning in neural networks. My research focuses on understanding how the data distribution and optimization choices
+drive the encoding of information and emergence of computational abilities. My goal is to use these insights to design
+interventions in training that can make models more efficient, reliable, and controllable.
+
+I am currently advised by [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) and am a part-time intern at 
+[FAIR](https://ai.facebook.com/). Previously, I was at the [RegLab](https://reglab.stanford.edu/) at Stanford 
+University where I worked with partners at the Internal Revenue Service and Deparment of Labor on using machine 
+learning to optimally allocate scarse government resources.
+
+I have also volunteered for [SF New Deal](https://sfnewdeal.org/) where I helped research and draft their [economic
+impact report](https://static1.squarespace.com/static/5e75a094a5e7414c1d12b773/t/5f8ddd68286841680af0c5ef/1603132818535/impact-report).
+Whenever I get the chance, I like to go out social dancing and am part of [Cardinal West Coast Swing](https://www.facebook.com/cardinalswing/) and the [Stanford Tango Club](https://www.facebook.com/groups/StanfordTangoClub/?mibextid=6NoCDW).
