@@ -12,19 +12,5 @@
     "title": "Publications",
     "section": "",
     "text": "*Equal contribution\n\n2022\nUnmasking the Lottery Ticket Hypothesis: What’s Encoded in a Winning Ticket’s Mask?\nMansheej Paul*, Feng Chen*, Brett W. Larsen*, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite\narXiv Preprint\narXiv  Thread\n\nLottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks\nMansheej Paul*, Brett W. Larsen*, Surya Ganguli, Jonathan Frankle, Gintare Karolina Dziugaite\nAdvances in Neural Information Processing Systems 35 (NeurIPS 2022)\narXiv  GitHub  Thread\n\n\n\n2021\nDeep Learning on a Data Diet: Finding Important Examples Early in Training\nMansheej Paul, Surya Ganguli, Gintare Karolina Dziugaite\nAdvances in Neural Information Processing Systems 34 (NeurIPS 2021)\narXiv NeurIPS 2021  GitHub  Thread\n\n\n\n2020\nDeep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel\nStanislav Fort*, Gintare Karolina Dziugaite*, Mansheej Paul, Sepideh Kharaghani, Daniel M. Roy, Surya Ganguli\nAdvances in Neural Information Processing Systems 33 (NeurIPS 2020)\narXiv NeurIPS 2020  Thread"
-  },
-  {
-    "objectID": "pubs.html#talks",
-    "href": "pubs.html#talks",
-    "title": "Publications",
-    "section": "Talks",
-    "text": "Talks"
-  },
-  {
-    "objectID": "pubs.html#conference-publications",
-    "href": "pubs.html#conference-publications",
-    "title": "Publications",
-    "section": "Conference Publications",
-    "text": "Conference Publications\nUnmasking the Lottery Ticket Hypothesis: What’s Encoded in a Winning Ticket’s Mask? Mansheej Paul*, Feng Chen*, Brett W. Larsen*, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite arXiv Preprint arXiv  Thread\n\nLottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks\nMansheej Paul*, Brett W. Larsen*, Surya Ganguli, Jonathan Frankle, Gintare Karolina Dziugaite\nAdvances in Neural Information Processing Systems 35 (NeurIPS 2022)\narXiv  GitHub  Thread\n\n2021\nDeep Learning on a Data Diet: Finding Important Examples Early in Training\nMansheej Paul, Surya Ganguli, Gintare Karolina Dziugaite\nAdvances in Neural Information Processing Systems 34 (NeurIPS 2021)\narXiv NeurIPS 2021  GitHub  Thread\n\n\n2020\nDeep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel\nStanislav Fort*, Gintare Karolina Dziugaite*, Mansheej Paul, Sepideh Kharaghani, Daniel M. Roy, Surya Ganguli\nAdvances in Neural Information Processing Systems 33 (NeurIPS 2020)\narXiv NeurIPS 2020  Thread\n\n*Equal contribution"
   }
 ]
