@@ -11,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - href: pubs.qmd
+      - href: _files/CV_11_14_22.pdf
+        text: CV
 
 format:
   html:

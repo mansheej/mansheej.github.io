@@ -1,6 +1,6 @@
 ---
 title: "Mansheej Paul"
-image: profile.jpg
+image: _files/profile.jpg
 about:
     template: trestles
     image-width: 12em
