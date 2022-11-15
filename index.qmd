@@ -25,7 +25,7 @@ _Hi!_ I am a Ph.D. student at Stanford University studying the principles and me
 - How does data affect what information and computational abilities are learned by networks?
 - How can we engineer the data distribution to train networks to be more reliable, adaptable, and controllable. 
 
-Recently, I have worked on using the data distribution and properties of loss landscapes to make training more efficient, both in terms of requiring less data and training sparser networks. I am currently excited about investigating how the data distribution effects in-context learning, memorization, federated learning and continual learning.
+Recently, I have worked on using the data distribution and properties of loss landscapes to make training more efficient, both in terms of requiring less data and training sparser networks. I am currently excited about investigating how the data distribution affects in-context learning, memorization, federated learning and continual learning.
 
 I am advised by [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) and am an intern at [Meta AI](https://ai.facebook.com/). Previously, I was at the [RegLab](https://reglab.stanford.edu/) at Stanford University where I worked with partners at the Internal Revenue Service and Deparment of Labor on using machine learning to make government administrative processes more efficient. Before graduate school, I did my undergraduate at Brown University where I studied random matrix theory and its application to black hole physics.
 
