@@ -49,7 +49,7 @@ _Advances in Neural Information Processing Systems 33 (NeurIPS 2020)_\
 ---
 
 ## Talks
-- **Google Brain**, November 2022
+<!-- - **Google Brain**, November 2022 -->
 - **MosaicML**, October 2022
 
 ---
