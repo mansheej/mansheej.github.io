@@ -10,7 +10,7 @@ title: "Publications"
 
 **Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?**\
 **Mansheej Paul**\*, Feng Chen\*, Brett W. Larsen\*, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite\
-_arXiv Preprint, 2022_\
+_International Conference on Learning Representations (ICLR), 2023_.  **Notable - Top 25%.**\
 <a href="https://arxiv.org/abs/2210.03044"><button type="button" class="btn btn-outline-info btn-sm">arXiv</button></a>
 <a href="https://twitter.com/_BrettLarsen/status/1579868008645681152"><button type="button" class="btn btn-outline-info btn-sm"><i class="bi bi-twitter"></i> Thread</button></a> 
 
@@ -18,7 +18,7 @@ _arXiv Preprint, 2022_\
 
 **Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks**\
 **Mansheej Paul**\*, Brett W. Larsen\*, Surya Ganguli, Jonathan Frankle, Gintare Karolina Dziugaite\
-_Accepted at Neural Information Processing Systems (NeurIPS), 2022_\
+_Advances in Neural Information Processing Systems (NeurIPS), 2022_\
 <a href="https://arxiv.org/abs/2206.01278"><button type="button" class="btn btn-outline-info btn-sm">arXiv</button></a>
 <a href="https://github.com/mansheej/lth_diet"><button type="button" class="btn btn-outline-info btn-sm"><i class="bi bi-github"></i> GitHub</button></a>
 <a href="https://twitter.com/_BrettLarsen/status/1540024892728303616"><button type="button" class="btn btn-outline-info btn-sm"><i class="bi bi-twitter"></i> Thread</button></a> 
