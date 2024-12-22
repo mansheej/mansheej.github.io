@@ -10,8 +10,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: pubs.qmd
-      - href: _files/CV_11_16_22.pdf
+      # - href: pubs.qmd
+      - href: _files/mansheej_paul_resume.pdf
         text: CV
 
 format:
